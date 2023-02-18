@@ -23,6 +23,11 @@ public class Main {
         System.out.println("     6.2: Decrease Order");
         System.out.println("7: Linear Search Algorithm");
         System.out.println("8: Binary Search Algorithm");
+        System.out.println("9: Table 2D array");
+        System.out.println("10: Transpose of Matrix");
+        System.out.println("11: Linked list traversing");
+        System.out.println("12: Searching in Linked List");
+
 
     }
 }

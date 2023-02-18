@@ -22,6 +22,7 @@ public class Main {
         System.out.println("     6.1: Increase Order");
         System.out.println("     6.2: Decrease Order");
         System.out.println("7: Linear Search Algorithm");
+        System.out.println("8: Binary Search Algorithm");
 
     }
 }

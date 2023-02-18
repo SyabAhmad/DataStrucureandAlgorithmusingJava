@@ -40,4 +40,19 @@ All Topics we should cover in this Chapter
 6: Bubble Sort Algorithm
         
      6.1: Increase Order
+     6.2: Decrease Order");
+     
+7: Linear Search Algorithm");
+
+8: Binary Search Algorithm");
+
+9: Table 2D array");
+
+10: Transpose of Matrix");
+
+11: Linked list traversing");
+
+12: Searching in Linked List");
+
+13: Sorting Linked List");
 

@@ -21,5 +21,7 @@ public class Main {
         System.out.println("6: Bubble Sort Algorithm");
         System.out.println("     6.1: Increase Order");
         System.out.println("     6.2: Decrease Order");
+        System.out.println("7: Linear Search Algorithm");
+
     }
 }

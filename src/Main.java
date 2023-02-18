@@ -18,5 +18,8 @@ public class Main {
         System.out.println("     5.1: at Specific Location or index");
         System.out.println("     5.2: at Head");
         System.out.println("     5.2: at end");
+        System.out.println("6: Bubble Sort Algorithm");
+        System.out.println("     6.1: Increase Order");
+        System.out.println("     6.2: Decrease Order");
     }
 }

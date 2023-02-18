@@ -27,6 +27,7 @@ public class Main {
         System.out.println("10: Transpose of Matrix");
         System.out.println("11: Linked list traversing");
         System.out.println("12: Searching in Linked List");
+        System.out.println("13: Sorting Linked List");
 
 
     }

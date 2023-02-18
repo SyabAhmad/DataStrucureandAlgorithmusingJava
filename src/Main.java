@@ -14,5 +14,9 @@ public class Main {
         System.out.println("     4.1: at Specific Location or index");
         System.out.println("     4.2: at Head");
         System.out.println("     4.2: at end");
+        System.out.println("5: Deletion in Aray");
+        System.out.println("     5.1: at Specific Location or index");
+        System.out.println("     5.2: at Head");
+        System.out.println("     5.2: at end");
     }
 }

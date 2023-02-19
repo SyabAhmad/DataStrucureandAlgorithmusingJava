@@ -1,8 +1,17 @@
 # Data Strucure and Algorithm using Java
-Data Strucure and Algorithm using Java
+
+👩‍💻⚙👨‍💻
 
 Data Structure and Algorithm using Java
 
+🛠 Language
+
+        🛠 Java
+        
+👨‍💻 IDE
+
+        🛠 IntilleJ Idea
+        
 All Topics we should cover in this Chapter
         
 ----------------------------------------------

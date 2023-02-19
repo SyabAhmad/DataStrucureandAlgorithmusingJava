@@ -1,4 +1,4 @@
-# DataStrucureandAlgorithmusingJava
+# Data Strucure and Algorithm using Java
 Data Strucure and Algorithm using Java
 
 Data Structure and Algorithm using Java
@@ -7,7 +7,7 @@ All Topics we should cover in this Chapter
         
 ----------------------------------------------
         
-1: Array Traversing ( 1D )");
+1: Array Traversing ( 1D )
         
      1.1: Array Traversing for Integer Datatype ( 1D )
         
@@ -40,30 +40,30 @@ All Topics we should cover in this Chapter
 6: Bubble Sort Algorithm
         
      6.1: Increase Order
-     6.2: Decrease Order");
+     6.2: Decrease Order
      
-7: Linear Search Algorithm");
+7: Linear Search Algorithm
 
-8: Binary Search Algorithm");
+8: Binary Search Algorithm
 
-9: Table 2D array");
+9: Table 2D array
 
-10: Transpose of Matrix");
+10: Transpose of Matrix
 
-11: Linked list traversing");
+11: Linked list traversing
 
-12: Searching in Linked List");
+12: Searching in Linked List
 
-13: Sorting Linked List");
+13: Sorting Linked List
 
-14: Insertion in Linked List");
+14: Insertion in Linked List
 
-     14.1: at Beginning");
+     14.1: at Beginning
      
-     14.2: at End");
+     14.2: at End
      
-15: Deletion in Linked List");
+15: Deletion in Linked List
 
-     15.1: at Beginning");
-     15.1: at End");
+     15.1: at Beginning
+     15.2: at End
      

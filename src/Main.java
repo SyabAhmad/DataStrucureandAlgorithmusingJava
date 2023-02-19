@@ -31,9 +31,12 @@ public class Main {
         System.out.println("14: Insertion in Linked List");
         System.out.println("     14.1: at End");
         System.out.println("     14.2: at Beginning");
-        System.out.println("14: Deletion in Linked List");
-        System.out.println("     14.1: at End");
-        System.out.println("     14.2: at Beginning");
+        System.out.println("15: Deletion in Linked List");
+        System.out.println("     15.1: at End");
+        System.out.println("     15.2: at Beginning");
+        System.out.println("16: Stack Data Structure");
+        System.out.println("     16.1: pop()");
+        System.out.println("     16.2: push");
 
 
     }

@@ -76,3 +76,10 @@ All Topics we should cover in this Chapter
      15.1: at Beginning
      15.2: at End
      
+16: Stack Data Structure
+
+     16.1: pop()
+     
+     16.2: push()
+     
+     

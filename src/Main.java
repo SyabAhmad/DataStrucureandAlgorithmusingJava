@@ -14,7 +14,7 @@ public class Main {
         System.out.println("     4.1: at Specific Location or index");
         System.out.println("     4.2: at Head");
         System.out.println("     4.2: at end");
-        System.out.println("5: Deletion in Aray");
+        System.out.println("5: Deletion in Array");
         System.out.println("     5.1: at Specific Location or index");
         System.out.println("     5.2: at Head");
         System.out.println("     5.2: at end");
@@ -28,6 +28,12 @@ public class Main {
         System.out.println("11: Linked list traversing");
         System.out.println("12: Searching in Linked List");
         System.out.println("13: Sorting Linked List");
+        System.out.println("14: Insertion in Linked List");
+        System.out.println("     14.1: at End");
+        System.out.println("     14.2: at Beginning");
+        System.out.println("14: Deletion in Linked List");
+        System.out.println("     14.1: at End");
+        System.out.println("     14.2: at Beginning");
 
 
     }
